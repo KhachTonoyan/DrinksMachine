@@ -1,0 +1,138 @@
+#main{
+	height:600px;
+	width:400px;
+	margin:0 auto;
+	padding:10px;
+	box-sizing:border-box;
+	background-color:#8E9EF5
+}
+#dis{
+	margin:0 auto;
+	width:350px;
+	height:100px;
+	margin-bottom:20px;
+	text-align:center;
+	background-color:#E2F1F5;
+	padding:43px;
+	box-sizing:border-box;
+}
+#s1{
+	margin:0 auto;
+	width:350px;
+	height:120px;
+	margin-bottom:20px;
+	position:relative;
+	display:grid;
+	grid-template-columns:auto auto auto;
+	align-items:center;
+	justify-content:center;
+	grid-gap:10px
+}
+#s2{
+	margin:0 auto;
+	width:350px;
+	height:120px;
+	margin-bottom:20px;
+	position:relative;
+	display:grid;
+	grid-template-columns:auto auto auto;
+	align-items:center;
+	justify-content:center;
+	grid-gap:10px
+}
+#s3{
+	margin:0 auto;
+	width:350px;
+	height:120px;
+	margin-bottom:20px;
+	position:relative;
+	display:grid;
+	grid-template-columns:auto auto auto;
+	align-items:center;
+	justify-content:center;
+	grid-gap:10px
+}
+#inp{
+	margin:0 auto;
+	width:350px;
+	height:120px;
+
+}
+#s1>div{
+	width:100px;
+	height:10px;
+	text-align:center;
+}
+#s2>div{
+	width:100px;
+	height:10px;
+	text-align:center;
+}
+#s3>div{
+	width:100px;
+	height:10px;
+	text-align:center;
+}
+#s1>button{
+	width:100px;
+	height:50px;
+	border:3px solid gray;
+}
+#s2>button{
+	width:100px;
+	height:50px;
+	border:3px solid gray;
+}
+#s3>button{
+	width:100px;
+	height:50px;
+	border:3px solid gray;
+}
+#b1{
+	background-image:url(img/1.png); 
+	background-size: cover;
+	background-color:inherit;
+}
+#b2{
+	background-image:url(img/2.jpg); 
+	background-size: cover;
+	background-color:inherit;
+}
+#b3{
+	background-image:url(img/3.jpg); 
+	background-size: cover;
+	background-color:inherit;
+}
+#b4{
+	background-image:url(img/4.jpg); 
+	background-size: cover;
+	background-color:inherit;
+}
+#b5{
+	background-image:url(img/5.png); 
+	background-size: cover;
+	background-color:inherit;
+}
+#b6{
+	background-image:url(img/6.png); 
+	background-size: cover;
+	background-color:inherit;
+}
+#b7{
+	background-image:url(img/7.jpg); 
+	background-size: cover;
+	background-color:inherit;
+}
+#b8{
+	background-image:url(img/8.jpg); 
+	background-size: cover;
+	background-color:inherit;
+}
+#b9{
+	background-image:url(img/9.jpg); 
+	background-size: cover;
+	background-color:inherit;
+}
+button:hover{
+	cursor:pointer;
+}
